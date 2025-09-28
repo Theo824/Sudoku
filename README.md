@@ -7,7 +7,7 @@ It also includes a button to open a game file and a “check” button to valida
 Please note that the Sudoku window does not fit on some screens.
 Try playing on a Raspberry Pi 4.
 
-For more step-by-step information on the process of making this project, please look at Sudoku_Logbook1.pdf and Sudoku_Logbook2.pdf.
+For more step-by-step information on the process of making this project, please look at Sudoku_Logbook1 and Sudoku_Logbook2 folders.
 
 ![Sudoku](https://github.com/user-attachments/assets/faab1b23-2bb1-4094-9150-f0997885614a)
 
