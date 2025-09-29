@@ -1,4 +1,4 @@
-Made my own QT Sudoku using C++ as my first year Advanced Programming task.
+Developed my own Sudoku program in Qt using C++ as one of my first-year Advanced Programming tasks.
 
 Developed my own sum algorithm to verify its correctness. 
 The interface uses up and down buttons to change numbers and a star to indicate numbers that cannot be changed. 
