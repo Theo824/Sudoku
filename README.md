@@ -2,9 +2,11 @@ Developed my own Sudoku program in Qt using C++ as one of my first-year Advanced
 
 Developed my own sum algorithm to verify its correctness. 
 The interface uses up and down buttons to change numbers and a star to indicate numbers that cannot be changed. 
-It also includes a button to open a game file and a “check” button to validate the result.
+It also includes a button to open a game data file and a “check” button to validate the result.
 
----> The executable game is inside the "sudoku_game_files" folder. <---
+---> The executable game is inside the "sudoku_game_files" folder. (You need the whole "sudo_game_files" folder to run the executable) <---
+
+---> To play the game, click 'Open' button and click a text file inside the "sudoku_game_data" folder. <---
 
 Please note that the Sudoku window may not fit properly depending on the device’s screen.
 
