@@ -6,7 +6,7 @@ It also includes a button to open a game data file and a “check” button to v
 
 ---> The executable game is inside the "sudoku_game_files" folder. (You need the whole "sudo_game_files" folder to run the executable) <---
 
----> To play the game, click 'Open' button and click a text file inside the "sudoku_game_data" folder. <---
+---> To play the game, double-click "sudoku.exe", click the 'Open' button and then click a text file inside the "sudoku_game_data" folder. <---
 
 Please note that the Sudoku window may not fit properly depending on the device’s screen.
 
