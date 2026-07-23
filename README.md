@@ -10,7 +10,7 @@ It also includes a button to open a game data file and a “check” button to v
 
 Please note that the Sudoku window may not fit properly depending on the device’s screen.
 
-For more step-by-step information on the process of making this project, please look at Sudoku_Logbook1 and Sudoku_Logbook2 folders.
+For more step-by-step information on the process or log of making this project, please look at 'Sudoku_Logbook.pdf'.
 
 <img width="527" height="475" alt="Sudoku" src="https://github.com/user-attachments/assets/c8bd271e-948b-4913-85c7-b46e4528aac2" />
 
